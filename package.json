@@ -1,0 +1,20 @@
+{
+  "name": "blog-from-marc...down",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Allows the writing of blog posts in markdown then generates html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcMcIntosh/blog-from-marc...down.git"
+  },
+  "author": "Marc McIntosh <marcmcintosh1987@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcMcIntosh/blog-from-marc...down/issues"
+  },
+  "homepage": "https://github.com/MarcMcIntosh/blog-from-marc...down#readme"
+}
