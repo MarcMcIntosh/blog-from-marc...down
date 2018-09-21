@@ -2,5 +2,7 @@
 - [x] Automate the shipping
 - [x] Create one blog post
 - [x] Put one link to the one blog post on index page
+- [ ] Write script to fill public directory with posts and an index page
+- [ ] Let travis deploy the public directory
 - [ ] Add another blog post
 - [ ] Automate putting link to blog posts
