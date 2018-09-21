@@ -1,0 +1,6 @@
+- [ ] Ship an empty index page
+- [ ] Automate the shipping
+- [ ] Create one blog post
+- [ ] Put one link to the one blog post on index page
+- [ ] Add another blog post
+- [ ] Automate putting link to blog posts
