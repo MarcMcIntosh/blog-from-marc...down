@@ -1,4 +1,4 @@
-- [ ] Ship an empty index page
+- [x] Ship an empty index page
 - [ ] Automate the shipping
 - [ ] Create one blog post
 - [ ] Put one link to the one blog post on index page
