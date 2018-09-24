@@ -1,5 +1,5 @@
 # Commit messages: part 1
-As of recent my blog posts have been a bit scatterbrained covering as I've basically picked a topic I managed to think of that day and wrote a little about it. **[previouse blog](https://marcmcintosh.github.io/holidayCheck-Blog/)**
+As of recent my blog posts have been a bit scatterbrained covering as I've basically picked a topic I managed to think of that day and wrote a little about it. See my **[previouse blog](https://marcmcintosh.github.io/holidayCheck-Blog/)** for examples.
 
 This week will be a change of pace, instead of covering a little ground in a lot of topics, one topic will be more thourghly disected.
 
