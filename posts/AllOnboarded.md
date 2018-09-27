@@ -6,6 +6,6 @@ Most of today was dedicated to completing the on boarding process at holidayChec
 + **Sign up for Persis.** (Human resources tool, mostly for booking days off)
 + **Gain Atlatos access.** (the service holiday Check uses to manage business trips)
 + **Sign-up for Officevibe.** Survey tool geared towards the environment with-in the workplace.
-+ **Add shared calenders to Outllok Calendars.** Lots of events travel opportunities on these.
++ **Add shared calenders to Outlook Calendars.** Lots of events travel opportunities on these.
 
-Aside from that short list that took slightly longer than initially planned, the overall scope of the apprenticeship program was also on my reading list. It broken down in to three distinct stages. The first being learning and implementing the workflow and technologies and the engineers use here. The second stage is aimed at gaining more knowledge and experience of what each team at holidayCheck does, how they do it and if possible getting involved in a project. The third and final stage is to innovate and produce a product that can have a positive impact in shaping holidayChecks future.
+Aside from that short list that took slightly longer than initially planned, the overall scope of the apprenticeship program was also on my reading list. It broken down in to three distinct stages. The first being learning and implementing the workflow and technologies and the engineers use here. The second stage is aimed at gaining more knowledge and experience of what each team at holidayCheck does, how they do it and if possible getting involved in a project. The third and final stage is to innovate and produce a product that can have a positive impact in shaping holidayChecks' future.
